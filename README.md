@@ -1,2 +1,2 @@
-# Html.portfolio
-Html Challenge
+Compendium of my web development journey
+
